@@ -1,2 +1,0 @@
-# Libros
-Software Book's
